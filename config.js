@@ -11,5 +11,6 @@ const CONFIG = {
     reply: 'Cuz youre amazing just the way you are',
     mess: 'Ỏ cute, luv u so',
     messDesc: 'Đi Đà Lạt ngắm cảnh thuii ><',
-    btnAccept: 'Gooooo'.
+    btnAccept: 'Gooooo',
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
