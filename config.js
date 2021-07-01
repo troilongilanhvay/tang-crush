@@ -8,7 +8,7 @@ const CONFIG = {
     btnNo: 'Hell no, bitch',
     question:'Oh, so nice but why me?',
     btnReply: 'Gửi em',
-    reply: 'Cuz youre amazing just the way you are',
+    reply: 'Cuz youre amazing just the way you are <3',
     mess: 'Ỏ cute, luv u so',
     messDesc: 'Đi Đà Lạt ngắm cảnh thuii ><',
     btnAccept: 'Gooooo',
