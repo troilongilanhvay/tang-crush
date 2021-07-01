@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Ỏ cute, luv u so',
     messDesc: 'Đi Đà Lạt ngắm cảnh thuii ><',
     btnAccept: 'Gooooo',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/han.hamho.900/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
